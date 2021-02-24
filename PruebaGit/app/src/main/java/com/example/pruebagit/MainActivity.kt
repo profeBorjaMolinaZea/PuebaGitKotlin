@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var count: Int = 10000
-        var count2: Int = 0
+        var count2: Int = -7
     }
 }
