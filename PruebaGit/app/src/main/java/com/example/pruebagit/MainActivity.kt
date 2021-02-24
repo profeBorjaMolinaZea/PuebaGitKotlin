@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         var count: Int = 10000
         var count2: Int = 7
+
     }
 }
